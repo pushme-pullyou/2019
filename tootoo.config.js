@@ -1,11 +1,10 @@
 window.TOOTOO_CONFIG = {
   owner: 'pushme-pullyou',
-  repo: 'pushme-pullyou.github.io',
+  repo: '2019',
   appName: 'Pushme-Pullyou',
   storagePrefix: 'pushme-pullyou',
-  sourceRepoUrl: 'https://github.com/pushme-pullyou/pushme-pullyou.github.io',
+  sourceRepoUrl: 'https://github.com/pushme-pullyou/2019',
   themeColor: '#6a5acd',
-  subtitle: '',
   faviconLetters: 'PP',
   faviconColor: '#6a5acd',
   faviconFile: 'favicon.ico',
